@@ -1,4 +1,6 @@
-# TIL
+# <h1><strong>TIL</strong></h1>
+
+<br>
 
 ### LINUX
-<a href="">명령어</a>
+<a href="https://github.com/wnstj1030/TIL/blob/main/LINUX.md">명령어</a>
