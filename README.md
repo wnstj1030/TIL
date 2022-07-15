@@ -19,3 +19,5 @@
 <a href="https://github.com/wnstj1030/TIL/blob/main/Network/Http%20vs%20Https.md">Http vs Https</a>
 <br>
 <a href="https://github.com/wnstj1030/TIL/blob/main/Network/TCP%20vs%20UDP.md">TCP vs UDP</a>
+<br>
+<a href="https://github.com/wnstj1030/TIL/blob/main/Network/OSI%207%20Layers.md">OSI 7 Layers</a>
