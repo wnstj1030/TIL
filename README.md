@@ -10,6 +10,8 @@
 <a href="https://github.com/wnstj1030/TIL/blob/main/LINUX.md">명령어</a>
 <br>
 <a href="https://github.com/wnstj1030/TIL/blob/main/LINUX/linux_basic.md">리눅스 기본</a>
+<br>
+<a href="https://github.com/wnstj1030/TIL/blob/main/LINUX/Hackerschool%20lev1.md">Hackerschool FTZ level 1 solv</a>
 
 ### NETWORK
 <a href="https://github.com/wnstj1030/TIL/blob/main/Network/IP.md">IP</a>
