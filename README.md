@@ -23,13 +23,13 @@
 <br>
 [IP](https://github.com/wnstj1030/TIL/blob/main/Network/IP.md)
 <br>
-[MacAddress vs IP Address](https://github.com/wnstj1030/TIL/blob/main/Network/Mac%20address%20vs%20IP%20address.md)
+[MacAddress vs IP Address(맥주소와 IP주소)](https://github.com/wnstj1030/TIL/blob/main/Network/Mac%20address%20vs%20IP%20address.md)
 <br>
-[OSI 7 Layers](https://github.com/wnstj1030/TIL/blob/main/Network/OSI%207%20Layers.md)
+[OSI 7 Layers(OSI 7 계층)](https://github.com/wnstj1030/TIL/blob/main/Network/OSI%207%20Layers.md)
 <br>
-[Port && Port Fowarding](https://github.com/wnstj1030/TIL/blob/main/Network/Port%20%26%20Port%20Fowarding.md)
+[Port && Port Fowarding(포트와 포트포워딩)](https://github.com/wnstj1030/TIL/blob/main/Network/Port%20%26%20Port%20Fowarding.md)
 <br>
-[Subnet && Subnetting](https://github.com/wnstj1030/TIL/blob/main/Network/Subnet%20%26%20Subnetting.md)
+[Subnet && Subnetting(서브넷과 서브넷팅)](https://github.com/wnstj1030/TIL/blob/main/Network/Subnet%20%26%20Subnetting.md)
 <br>
 [TCP vs UDP](https://github.com/wnstj1030/TIL/blob/main/Network/TCP%20vs%20UDP.md)
 <br><br>
