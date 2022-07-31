@@ -34,17 +34,17 @@
 [TCP vs UDP](https://github.com/wnstj1030/TIL/blob/main/Network/TCP%20vs%20UDP.md)
 <br><br>
 ## WEB
-[WEB Browser](https://github.com/wnstj1030/TIL/blob/main/WEB/WEB%20BROWSER.md)
+[WEB Browser(웹 브라우저)](https://github.com/wnstj1030/TIL/blob/main/WEB/WEB%20BROWSER.md)
 <br>
 [URL](https://github.com/wnstj1030/TIL/blob/main/WEB/URL.md)
 <br>
-[Domain Name](https://github.com/wnstj1030/TIL/blob/main/WEB/Domain%20Name.md)
+[Domain Name(도메인 네임 / 도메인 네임 서버, DNS)](https://github.com/wnstj1030/TIL/blob/main/WEB/Domain%20Name.md)
 <br>
-[WEB Rendering](https://github.com/wnstj1030/TIL/blob/main/WEB/Web%20Rendering.md)
+[WEB Rendering(웹 랜더링)](https://github.com/wnstj1030/TIL/blob/main/WEB/Web%20Rendering.md)
 <br>
-#### DevTools
+#### DevTools(개발자 도구)
 [DevTools](https://github.com/wnstj1030/TIL/blob/main/WEB/DevTools.md)
-<br>
+#### 개발자 도구 레이아웃
 [DevTools Layout 1](https://github.com/wnstj1030/TIL/blob/main/WEB/DevTools%20Layout.md)
 <br>
 [DevTools Layout 2](https://github.com/wnstj1030/TIL/blob/main/WEB/DevTools%20Layout(2).md)
