@@ -4,47 +4,47 @@
 하루하루 공부하고 배운 내용을 정리한다!😆
 <br>
 ## Linux
-[Linux Command](https://github.com/wnstj1030/TIL/blob/main/LINUX/command.md)
+[Linux Command(리눅스 기본 명령어)](https://github.com/wnstj1030/TIL/blob/main/LINUX/command.md)
 <br>
-[Linux Basic](https://github.com/wnstj1030/TIL/blob/main/LINUX/linux_basic.md)
+[Linux Basic(리눅스 기본 문제)](https://github.com/wnstj1030/TIL/blob/main/LINUX/linux_basic.md)
 <br>
 [Hackerschool level 1](https://github.com/wnstj1030/TIL/blob/main/LINUX/Hackerschool%20lev1.md)
 <br>
-[level 1 Analysis](https://github.com/wnstj1030/TIL/blob/main/LINUX/level%201%20%EB%B6%84%EC%84%9D.md)
+[level 1 Analysis(level 1 분석)](https://github.com/wnstj1030/TIL/blob/main/LINUX/level%201%20%EB%B6%84%EC%84%9D.md)
 <br>
 [Hackerschool level 2](https://github.com/wnstj1030/TIL/blob/main/LINUX/Hackerschool%20lev2.md)
 <br>
 [Hackerschool level 3](https://github.com/wnstj1030/TIL/blob/main/LINUX/Hackerschool%20lev3.md)
 <br>
-[Kernel && Shell](https://github.com/wnstj1030/TIL/blob/main/LINUX/kernel%20%26%26%20shell.md)
+[Kernel && Shell(커널과 쉘)](https://github.com/wnstj1030/TIL/blob/main/LINUX/kernel%20%26%26%20shell.md)
 <br><br>
 ## Network
 [HTTP vs HTTPS](https://github.com/wnstj1030/TIL/blob/main/Network/Http%20vs%20Https.md)
 <br>
 [IP](https://github.com/wnstj1030/TIL/blob/main/Network/IP.md)
 <br>
-[MacAddress vs IP Address](https://github.com/wnstj1030/TIL/blob/main/Network/Mac%20address%20vs%20IP%20address.md)
+[MacAddress vs IP Address(맥주소와 IP주소)](https://github.com/wnstj1030/TIL/blob/main/Network/Mac%20address%20vs%20IP%20address.md)
 <br>
-[OSI 7 Layers](https://github.com/wnstj1030/TIL/blob/main/Network/OSI%207%20Layers.md)
+[OSI 7 Layers(OSI 7 계층)](https://github.com/wnstj1030/TIL/blob/main/Network/OSI%207%20Layers.md)
 <br>
-[Port && Port Fowarding](https://github.com/wnstj1030/TIL/blob/main/Network/Port%20%26%20Port%20Fowarding.md)
+[Port && Port Fowarding(포트와 포트포워딩)](https://github.com/wnstj1030/TIL/blob/main/Network/Port%20%26%20Port%20Fowarding.md)
 <br>
-[Subnet && Subnetting](https://github.com/wnstj1030/TIL/blob/main/Network/Subnet%20%26%20Subnetting.md)
+[Subnet && Subnetting(서브넷과 서브넷팅)](https://github.com/wnstj1030/TIL/blob/main/Network/Subnet%20%26%20Subnetting.md)
 <br>
 [TCP vs UDP](https://github.com/wnstj1030/TIL/blob/main/Network/TCP%20vs%20UDP.md)
 <br><br>
 ## WEB
-[WEB Browser](https://github.com/wnstj1030/TIL/blob/main/WEB/WEB%20BROWSER.md)
+[WEB Browser(웹 브라우저)](https://github.com/wnstj1030/TIL/blob/main/WEB/WEB%20BROWSER.md)
 <br>
 [URL](https://github.com/wnstj1030/TIL/blob/main/WEB/URL.md)
 <br>
-[Domain Name](https://github.com/wnstj1030/TIL/blob/main/WEB/Domain%20Name.md)
+[Domain Name(도메인 네임 / 도메인 네임 서버, DNS)](https://github.com/wnstj1030/TIL/blob/main/WEB/Domain%20Name.md)
 <br>
-[WEB Rendering](https://github.com/wnstj1030/TIL/blob/main/WEB/Web%20Rendering.md)
+[WEB Rendering(웹 랜더링)](https://github.com/wnstj1030/TIL/blob/main/WEB/Web%20Rendering.md)
 <br>
-#### DevTools
+#### DevTools(개발자 도구)
 [DevTools](https://github.com/wnstj1030/TIL/blob/main/WEB/DevTools.md)
-<br>
+#### 개발자 도구 레이아웃
 [DevTools Layout 1](https://github.com/wnstj1030/TIL/blob/main/WEB/DevTools%20Layout.md)
 <br>
 [DevTools Layout 2](https://github.com/wnstj1030/TIL/blob/main/WEB/DevTools%20Layout(2).md)
